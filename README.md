@@ -1,4 +1,4 @@
-Adobe-Illustrator-AppleScript-Collection
-========================================
+Adobe Illustrator Script Collection
+===================================
 
-Collected and modified AppleScript scripts for Adobe Illustrator.
+Collected, modified and self-written scripts for Adobe Illustrator. Mostly AppleScript, some JavaScript.
